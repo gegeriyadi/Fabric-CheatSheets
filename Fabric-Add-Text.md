@@ -1,6 +1,6 @@
-Fabric Add Text
+### Fabric Add Text
 
-```
+```javascript
 var text = new fabric.IText('SAVE THE DATE', {
 	fontFamily: 'Playfair Display',
 	fontSize: 27,
